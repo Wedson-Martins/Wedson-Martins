@@ -1,4 +1,4 @@
-### Hi there, I'M <span style = "color: red">Wedson Martins</span> 
+### Hi there, I'M Wedson Martins
 
 
  - I live in :brazil:
